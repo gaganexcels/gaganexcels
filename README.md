@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
+<h3 align="center">Digital Builder | BCA Student | Content & Code</h3>
 <h3 align="center">A 19 year old with an interest for building stuff. If it includes planning, desgining, and execution, I'm interested.</h3>
 
 - 🌱 I’m currently learning **Front-end, UI/UX, Full-stack**
