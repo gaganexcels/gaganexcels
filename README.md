@@ -3,7 +3,7 @@
 
 <h3 align="center">A 19-year-old with an interest for building stuff. If it includes planning, desgining, and execution, I'm interested.</h3>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
-- 🌱 I’m currently learning **Front-end, UI/UX, Full-stack**
+- 🌱 I’m currently learning <b>Front-end, UI/UX, Full-stack</b>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gagandeep-singh-virdee/](https://www.linkedin.com/in/gagandeep-singh-virdee/)
 
