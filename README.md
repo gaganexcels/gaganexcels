@@ -11,7 +11,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X41PrMPGNNp3pV0qTKUdWuYX-BZzcjMS/view?usp=sharing](https://drive.google.com/file/d/1X41PrMPGNNp3pV0qTKUdWuYX-BZzcjMS/view?usp=sharing)
 
-- ⚡ Fun fact **I think I can do anything by learning it.**
+- ⚡ Fun fact **I think I can do anything by learning it!**
+
+- ⚡️I love The Big Bang Theory!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
