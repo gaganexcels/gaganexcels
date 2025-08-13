@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X41PrMPGNNp3pV0qTKUdWuYX-BZzcjMS/view?usp=sharing](https://drive.google.com/file/d/1X41PrMPGNNp3pV0qTKUdWuYX-BZzcjMS/view?usp=sharing)
 
-- ⚡ Fun fact **I think I can do anything by learning it!**
-
 - ⚡️I love The Big Bang Theory!
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 <h3 align="left">Connect with me:</h3>
